@@ -1,0 +1,27 @@
+{
+  "name": "login2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "easyjson": "^0.1.2",
+    "express": "^4.15.3",
+    "express-json": "^1.0.0",
+    "express-session": "^1.15.3",
+    "express-validator": "^3.2.0",
+    "json-object": "0.0.3",
+    "marklogic": "^2.0.2",
+    "mssql": "^4.0.4",
+    "mustache-express": "^1.2.5",
+    "tedious": "^2.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
